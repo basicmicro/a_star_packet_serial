@@ -1,0 +1,1 @@
+This repository contains the code for the using the packet serial mode of the RoboClaw motor controller with a Pololu A-Star 32U4 micrcontroller. The Application Note associated with code can be [found here](https://resources.basicmicro.com/roboclaw-packet-serial-with-the-pololu-a-star-32u4/).
